@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "540247403335",
+    "firebase_url": "https://gujarat-government-schemes.firebaseio.com",
+    "project_id": "gujarat-government-schemes",
+    "storage_bucket": "gujarat-government-schemes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540247403335:android:2399f5da5089cbdf",
+        "android_client_info": {
+          "package_name": "in.ac.charusat.cspit.it.schemes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540247403335-8p70kn0opmdi004qv34odoe6sfrbdhtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.charusat.cspit.it.schemes",
+            "certificate_hash": "619a57a9e9e5409266cab68b2358e72083ad4846"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQQE1xgfIdXStwu4sGzo4QOIgf6XCS8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540247403335-l5hk1pfijkg4qr2aar1598ob35ch97ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mainActivity1"
+            android:icon="@drawable/ic_profile"
+            android:title="Login/Register" />
+        <item
+            android:id="@+id/tellafriend"
+            android:icon="@drawable/ic_tellafriend"
+            android:title="Tell a Friend" />
+        <item
+            android:id="@+id/rateus"
+            android:icon="@drawable/ic_rate"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_info"
+            android:title="About" />
+        <item
+            android:id="@+id/developers"
+            android:icon="@drawable/ic_computer"
+            android:title="Developers" />
+
+    </group>
+
+
+</menu>
